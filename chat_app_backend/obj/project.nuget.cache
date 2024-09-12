@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8hKAegln5zu3thdHS4gPy/WBEvv95GT0w228bSXjUyIvSTY99sCF1UFpeqUeQkgJhT3BP5WkZT9bhbjZKphFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\civza\\Desktop\\chat_app\\chat_app\\chat_app_backend\\chat_app_backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\civza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\civza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\civza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\civza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\civza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\civza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
